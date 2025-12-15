@@ -1,0 +1,13 @@
+{
+    "dotnet.dotnetPath": "D:\\Program Files\\dotnet",
+    "omnisharp.dotNetCliPaths": [
+        "D:\\Program Files\\dotnet\\dotnet.exe"
+    ],
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        {
+            "extensionId": "ms-dotnettools.csharp",
+            "path": "D:\\Program Files\\dotnet\\dotnet.exe"
+        }
+    ]
+}
+
