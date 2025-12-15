@@ -50,7 +50,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/AvaloniaMMKVReader.git
+git clone https://github.com/960208781/AvaloniaMMKVReader.git
 cd AvaloniaMMKVReader
 
 # 运行桌面版
